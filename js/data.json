@@ -1,0 +1,30 @@
+
+[
+
+
+{
+  "cate": "live_anywhere",
+  "title": "Outdoor getaways",
+  "desc": "자연과 함께 할 수 있는 곳",
+  "src": "imgs/anywhere-nature.webp"
+},
+{
+  "cate": "live_anywhere",
+  "title": "Unique Stays",
+  "desc": "경험해보지 못한 색다른 공간",
+  "src": "imgs/anywhere-unique.webp"
+},
+{
+"cate": "live_anywhere",
+"title": "Pets Allowed",
+"desc": "나의 애완견과 함께하는 곳",
+"src": "imgs/liveanywhere-pet.webp"
+},
+{
+"cate": "live_anywhere",
+"title": "Entired homes",
+"desc": "전체 집을 빌리는 수 있는 숙소",
+"src": "imgs/anywhere-house.jpg"
+}
+
+]
